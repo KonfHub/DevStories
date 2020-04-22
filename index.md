@@ -1,6 +1,27 @@
 # Dev Stories Learning Resources
 
-#### _Not familiar with Microsoft Azure, or finding any difficulty in writing your story?_
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+
+## Announcement
+
+> Azure Developer Stories is a technical blogging contest created for professional developers. The goal of the initiative is to skill developers to learn new technologies on Microsoft Learn and write technical blogs with demos and code samples sharing their experiences while building on Azure. The stories will help other developers across the globe to scale in building solutions on Azure. 
+
+## Additional Resources
+
+- **[Azure Account](https://azure.microsoft.com/)**
+- **[Visual Studio Code](https://code.visualstudio.com/)**
+
+> **Azure For Students Account**
+
+If you are a student at a College or University, you can create your **[Azure for Students](https://azure.microsoft.com/free/students/)** account. This account will give you the benefit of having a \$ 100 credit to use the Azure Services for free, without having a credit card and free developer tools as well. To activate this account, just access the link **[HERE](https://azure.microsoft.com/free/students/)**.
+
+
+# Microsoft Azure Learning Resources
 
 ### Category: AI/ML on Azure
 
@@ -59,3 +80,4 @@
   4. [Large-Scale Serverless Machine Learning Inference with Azure Functions](https://dev.to/azure/large-scale-serverless-machine-learning-inference-with-azure-functions-4mb7)
   5. [Tutorial: Build a Serverless API backend for Slack](https://dev.to/azure/funcy-a-serverless-slack-app-using-azure-functions-4m84)
 
+> Check out our official website for more details about [Azure Develoepr Stories Contest](https://devstories.konfhub.com/) and submit your blog [here](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAAls_TZUQVUwQ1lJQzFMTFNUSTZCRURaRlRBWFFYVi4u)
