@@ -13,7 +13,7 @@
 
 # Microsoft Azure Learning Resources
 
-📗 ### Category: AI/ML on Azure
+### Category: AI/ML on Azure
 
 - [Product Documentation on Docs](https://docs.microsoft.com/en-in/azure/?product=ai-machine-learning&wt.mc_id=AID3011243_QSG_EML_425409) 
 - MS Learn (Learning Paths) 
