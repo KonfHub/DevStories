@@ -16,7 +16,7 @@
 - Reference Blogs/Tutorials 
   1. [Making an Interactive Cognitive Portrait Exhibit using some Creativity, .NET, Azure Functions and Cognitive Services Magic](https://soshnikov.com/scienceart/making-interactive-cognitive-portrait-exhibit/)
   2. [Making Sense of the Senses- Our Top 5 Microsoft Azure Cognitive Services Combos](https://dev.to/azure/making-sense-of-the-senses-our-top-5-microsoft-azure-cognitive-services-combos-493k)
-  3. [How You Can Use Computer Vision to Avoid Touching Your Face!](https://medium.com/microsoftazure/how-you-can-use-computer-vision-to-avoid-touching-your-face-34a426ffddfd)
+  3. [How YOU Can Use Computer Vision to Avoid Touching Your Face!](https://medium.com/microsoftazure/how-you-can-use-computer-vision-to-avoid-touching-your-face-34a426ffddfd)
   4. [Using Azure Machine Learning for Hyperparameter Optimization](https://dev.to/azure/using-azure-machine-learning-for-hyperparameter-optimization-3kgj)
   5. [Deploying Deep Learning models using Kubeflow on Azure](https://medium.com/microsoftazure/deploying-deep-learning-models-using-kubeflow-on-azure-d303c904c6db)
 
