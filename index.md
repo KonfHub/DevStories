@@ -33,11 +33,27 @@
   5. Kafka Connect on Kubernetes, the easy way!
 
 ### Category: DevOps
-Product Documentation on Docs
-MS Learn (Learning Path/Module) 
-Build applications with Azure DevOps
-Deploy applications with Azure DevOps
-Automate your deployments with Azure DevOps
-Effective DevOps—Building a DevOps Culture at Scale
-Build Python apps
-Watch DevOps Fundamentals  on Channel 9
+
+- Product Documentation on Docs
+- MS Learn (Learning Path/Module) 
+  1. Build applications with Azure DevOps
+  2. Deploy applications with Azure DevOps
+  3. Automate your deployments with Azure DevOps
+  4. Effective DevOps—Building a DevOps Culture at Scale
+  5. Build Python apps
+- Watch DevOps Fundamentals  on Channel 9
+
+### Category: Serverless
+
+- Product Documentation on Docs
+- MS Learn (Learning Path/Module) 
+  1. Create serverless applications
+  2. Serverless apps: Architecture, patterns, and Azure implementation
+  3. Azure Serverless Computing Cookbook, Second Edition
+- Reference Blogs/Tutorials 
+  1. Build a Serverless Status Page with Azure Functions, SignalR, and Static HTML
+  2. Build your jokes generator using Machine Learning and Serverless
+  3. Quickstart: Create a chat room with Azure Functions and SignalR Service using Python
+  4. Large-Scale Serverless Machine Learning Inference with Azure Functions
+  5. Tutorial: Build a Serverless API backend for Slack
+
