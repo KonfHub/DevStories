@@ -57,7 +57,7 @@
   4. [Effective DevOps—Building a DevOps Culture at Scale](https://azure.microsoft.com/en-in/resources/effective-devops/?wt.mc_id=AID3011243_QSG_EML_426811)
   5. [Build Python apps](https://docs.microsoft.com/en-in/azure/devops/pipelines/ecosystems/python?view=azure-devops&wt.mc_id=AID3011243_QSG_EML_426812)
 
-> 📺 Watch [DevOps Fundamentals](https://channel9.msdn.com/Series/DevOps-Fundamentals) on Channel 9
+📺 > Watch [DevOps Fundamentals](https://channel9.msdn.com/Series/DevOps-Fundamentals) on Channel 9
 
 ### Category: Serverless
 
