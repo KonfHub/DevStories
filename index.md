@@ -9,7 +9,7 @@
 
 ## Announcement 📢
 
-> [Azure Developer Stories](https://devstories.konfhub.com/) is a technical blogging contest created for professional developers. The goal of the initiative is to skill developers to learn new technologies on Microsoft Learn and write technical blogs with demos and code samples sharing their experiences while building on Azure. The stories will help other developers across the globe to scale in building solutions on Azure. 
+> _[Azure Developer Stories](https://devstories.konfhub.com/) is a technical blogging contest created for professional developers. The goal of the initiative is to skill developers to learn new technologies on Microsoft Learn and write technical blogs with demos and code samples sharing their experiences while building on Azure. The stories will help other developers across the globe to scale in building solutions on Azure._ 
 
 # Microsoft Azure Learning Resources ☁️
 
