@@ -1,6 +1,6 @@
 # Dev Stories Learning Resources
 
-### Not familiar with Microsoft Azure, or finding any difficulty in writing your story?
+### _Not familiar with Microsoft Azure, or finding any difficulty in writing your story?_
 
 ### Category: AI/ML on Azure
 
