@@ -1,4 +1,4 @@
-# Dev Stories Learning Resources
+# Azure Dev Stories 
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
@@ -10,16 +10,6 @@
 ## Announcement
 
 > Azure Developer Stories is a technical blogging contest created for professional developers. The goal of the initiative is to skill developers to learn new technologies on Microsoft Learn and write technical blogs with demos and code samples sharing their experiences while building on Azure. The stories will help other developers across the globe to scale in building solutions on Azure. 
-
-## Additional Resources
-
-- **[Azure Account](https://azure.microsoft.com/)**
-- **[Visual Studio Code](https://code.visualstudio.com/)**
-
-> **Azure For Students Account**
-
-If you are a student at a College or University, you can create your **[Azure for Students](https://azure.microsoft.com/free/students/)** account. This account will give you the benefit of having a \$ 100 credit to use the Azure Services for free, without having a credit card and free developer tools as well. To activate this account, just access the link **[HERE](https://azure.microsoft.com/free/students/)**.
-
 
 # Microsoft Azure Learning Resources
 
@@ -79,5 +69,15 @@ If you are a student at a College or University, you can create your **[Azure fo
   3. [Quickstart: Create a chat room with Azure Functions and SignalR Service using Python](https://docs.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-azure-functions-python)
   4. [Large-Scale Serverless Machine Learning Inference with Azure Functions](https://dev.to/azure/large-scale-serverless-machine-learning-inference-with-azure-functions-4mb7)
   5. [Tutorial: Build a Serverless API backend for Slack](https://dev.to/azure/funcy-a-serverless-slack-app-using-azure-functions-4m84)
+
+## Additional Resources
+
+- **[Azure FREE Trial Account](https://azure.microsoft.com/free/?WT.mc_id=-github-arsaha)**
+- **[Visual Studio Code](https://code.visualstudio.com/)**
+
+> **Azure For Students Account**
+
+If you are a student at a College or University, you can create your **[Azure for Students](https://azure.microsoft.com/free/students/)** account. This account will give you the benefit of having a \$ 100 credit to use the Azure Services for free, without having a credit card and free developer tools as well. To activate this account, just access the link **[HERE](https://azure.microsoft.com/free/students/)**.
+
 
 > Check out our official website for more details about [Azure Develoepr Stories Contest](https://devstories.konfhub.com/) and submit your blog [here](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAAls_TZUQVUwQ1lJQzFMTFNUSTZCRURaRlRBWFFYVi4u)
