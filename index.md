@@ -13,7 +13,7 @@
 
 # Microsoft Azure Learning Resources
 
-### Category: AI/ML on Azure
+📗 ### Category: AI/ML on Azure
 
 - [Product Documentation on Docs](https://docs.microsoft.com/en-in/azure/?product=ai-machine-learning&wt.mc_id=AID3011243_QSG_EML_425409) 
 - MS Learn (Learning Paths) 
@@ -77,7 +77,7 @@
 
 > **Azure For Students Account**
 
-If you are a student at a College or University, you can create your **[Azure for Students](https://azure.microsoft.com/free/students/)** account. This account will give you the benefit of having a \$ 100 credit to use the Azure Services for free, without having a credit card and free developer tools as well. To activate this account, just access the link **[HERE](https://azure.microsoft.com/free/students/)**.
+If you are a student at a College or University, you can create your **[Azure for Students](https://azure.microsoft.com/free//students/?WT.mc_id=-github-arsaha)** account. This account will give you the benefit of having a \$ 100 credit to use the Azure Services for free, without having a credit card and free developer tools as well. To activate this account, just access the link **[HERE](https://azure.microsoft.com/free//students/?WT.mc_id=-github-arsaha)**.
 
 
-> Check out our official website for more details about [Azure Develoepr Stories Contest](https://devstories.konfhub.com/) and submit your blog [here](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAAls_TZUQVUwQ1lJQzFMTFNUSTZCRURaRlRBWFFYVi4u)
+🏷️ > Check out our official website for more details about [Azure Develoepr Stories Contest](https://devstories.konfhub.com/) and submit your blog [here](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAAls_TZUQVUwQ1lJQzFMTFNUSTZCRURaRlRBWFFYVi4u)
