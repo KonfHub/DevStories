@@ -13,7 +13,7 @@
 
 # Microsoft Azure Learning Resources ☁️
 
-### Category: AI/ML on Azure
+### Category: AI/ML
 
 - [Product Documentation on Docs](https://docs.microsoft.com/en-in/azure/?product=ai-machine-learning&wt.mc_id=AID3011243_QSG_EML_425409) 
 - Check out some of the Learning Paths on MS Learn 
@@ -57,7 +57,7 @@
   4. [Effective DevOps—Building a DevOps Culture at Scale](https://azure.microsoft.com/en-in/resources/effective-devops/?wt.mc_id=AID3011243_QSG_EML_426811)
   5. [Build Python apps](https://docs.microsoft.com/en-in/azure/devops/pipelines/ecosystems/python?view=azure-devops&wt.mc_id=AID3011243_QSG_EML_426812)
 
-📺 > Watch [DevOps Fundamentals](https://channel9.msdn.com/Series/DevOps-Fundamentals) on Channel 9
+📺 _Watch [DevOps Fundamentals](https://channel9.msdn.com/Series/DevOps-Fundamentals) on Channel 9_
 
 ### Category: Serverless
 
@@ -73,8 +73,6 @@
   4. [Large-Scale Serverless Machine Learning Inference with Azure Functions](https://dev.to/azure/large-scale-serverless-machine-learning-inference-with-azure-functions-4mb7)
   5. [Tutorial: Build a Serverless API backend for Slack](https://dev.to/azure/funcy-a-serverless-slack-app-using-azure-functions-4m84)
 
-### 🔖 _Check out this article on [Writing a Technical Blog 101](https://dev.to/arkodyutisaha/writing-a-technical-blog-101-13pa)_
-
 ## Additional Resources
 
 - **[Azure FREE Trial Account](https://azure.microsoft.com/free/?WT.mc_id=-github-arsaha)**
@@ -84,4 +82,4 @@
 If you are a student at a College or University, you can create your **[Azure for Students](https://azure.microsoft.com/free//students/?WT.mc_id=-github-arsaha)** account. This account will give you the benefit of having a \$ 100 credit to use the Azure Services for free, without having a credit card and free developer tools as well. To activate this account, just access the link **[HERE](https://azure.microsoft.com/free//students/?WT.mc_id=-github-arsaha)**.
 
 
-🏷️ *Check out our official website for more details about [Azure Developer Stories Contest](https://devstories.konfhub.com/) and submit your blog [here](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAAls_TZUQVUwQ1lJQzFMTFNUSTZCRURaRlRBWFFYVi4u)*
+🏷️ **Check out our official website for more details about [Azure Developer Stories](https://devstories.konfhub.com/) contest and submit your blog [here](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAAls_TZUQVUwQ1lJQzFMTFNUSTZCRURaRlRBWFFYVi4u)**
