@@ -73,6 +73,8 @@
   4. [Large-Scale Serverless Machine Learning Inference with Azure Functions](https://dev.to/azure/large-scale-serverless-machine-learning-inference-with-azure-functions-4mb7)
   5. [Tutorial: Build a Serverless API backend for Slack](https://dev.to/azure/funcy-a-serverless-slack-app-using-azure-functions-4m84)
 
+_Check out this blog on [Writing a technical blog 101](https://dev.to/arkodyutisaha/writing-a-technical-blog-101-13pa)_
+
 ## Additional Resources
 
 - **[Azure FREE Trial Account](https://azure.microsoft.com/free/?WT.mc_id=-github-arsaha)**
