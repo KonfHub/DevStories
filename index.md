@@ -9,7 +9,7 @@
 
 ## Announcement 📢
 
-> _[Azure Developer Stories](https://devstories.konfhub.com/) is a technical blogging contest created for professional developers. The goal of the initiative is to skill developers to learn new technologies on Microsoft Learn and write technical blogs with demos and code samples sharing their experiences while building on Azure. The stories will help other developers across the globe to scale in building solutions on Azure._ 
+> _**[Azure Developer Stories](https://devstories.konfhub.com/)** is a technical blogging contest created for professional developers. The goal of the initiative is to skill developers to learn new technologies on Microsoft Learn and write technical blogs with demos and code samples sharing their experiences while building on Azure. The stories will help other developers across the globe to scale in building solutions on Azure._ 
 
 # Microsoft Azure Learning Resources ☁️
 
@@ -78,10 +78,6 @@ _Check out this blog on [Writing a technical blog 101](https://dev.to/arkodyutis
 ## Additional Resources
 
 - **[Azure FREE Trial Account](https://azure.microsoft.com/free/?WT.mc_id=-github-arsaha)**
-- **[Visual Studio Code](https://code.visualstudio.com/)**
-
-> **Azure For Students Account**
-If you are a student at a College or University, you can create your **[Azure for Students](https://azure.microsoft.com/free//students/?WT.mc_id=-github-arsaha)** account. This account will give you the benefit of having a \$ 100 credit to use the Azure Services for free, without having a credit card and free developer tools as well. To activate this account, just access the link **[HERE](https://azure.microsoft.com/free//students/?WT.mc_id=-github-arsaha)**.
-
+- **[Visual Studio Code](https://code.visualstudio.com/)**1
 
 🏷️ **Check out our official website for more details about [Azure Developer Stories](https://devstories.konfhub.com/) contest and submit your blog [here](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAAls_TZUQVUwQ1lJQzFMTFNUSTZCRURaRlRBWFFYVi4u)**
