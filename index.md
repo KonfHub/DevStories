@@ -78,6 +78,6 @@ _Check out this blog on [Writing a technical blog 101](https://dev.to/arkodyutis
 ## Additional Resources
 
 - **[Azure FREE Trial Account](https://azure.microsoft.com/free/?WT.mc_id=-github-arsaha)**
-- **[Visual Studio Code](https://code.visualstudio.com/)**1
+- **[Visual Studio Code](https://code.visualstudio.com/)**
 
 🏷️ **Check out our official website for more details about [Azure Developer Stories](https://devstories.konfhub.com/) contest and submit your blog [here](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAAls_TZUQVUwQ1lJQzFMTFNUSTZCRURaRlRBWFFYVi4u)**
