@@ -37,8 +37,7 @@
   23. [Ashish Raj](https://www.linkedin.com/in/ashishrajsrivastava/) on "[Azure DevOps Pro](https://www.azuredevopspro.com/azuredevops/shifting-security-left-practicing-devsecops-with-azure-devops/)"
   24. [Debasis](https://www.linkedin.com/in/sahadebasis/) on "[Insert Data Into Azure Table Storage Using ASP.NET Core Application](https://www.c-sharpcorner.com/article/insert-data-into-azure-table-storage-using-asp-net-core-application/)"
   25. [Dhruv Trehan](https://twitter.com/dhruvtrehan45) on "[Could Cognitive Services help in reducing Data Redundancy and result in faster processing of Big Data?](https://medium.com/@dhruvtrehan45/could-cognitive-services-help-in-reducing-data-redundancy-and-result-in-faster-processing-of-big-dd77968514b8)"
-  26. [Gaurav](https://www.linkedin.com/in/gouravrathore/) on"[ 
-Configure Visual Studio Code for Azure and Terraform](https://developer.rackspace.com/blog/configure-vs-code-for-azure-and-terraform/)"
+  26. [Gaurav](https://www.linkedin.com/in/gouravrathore/) on "[Configure Visual Studio Code for Azure and Terraform](https://developer.rackspace.com/blog/configure-vs-code-for-azure-and-terraform/)"
   27. [Gaurav](https://www.linkedin.com/in/gouravrathore/) on "[Create alerts for long-running backups on Azure](https://developer.rackspace.com/blog/create-alerts-for-long-running-backups-on-Azure/)"
   28. [Haimantika](https://twitter.com/HaimantikaM) on "[Azure Automated ML- the journey from Zero to AI Hero](https://medium.com/@haimantikamitra/azure-automated-ml-the-journey-from-zero-to-ai-hero-b373355f83a1)"
   29. [Jahnavi](https://www.linkedin.com/in/jahnavijonnalagadda/) on "[Exploratory Data Analysis – A Key Step in Machine Learning](https://dev.to/jahnavijonnalagadda/exploratory-data-analysis-a-key-step-in-machine-learning-2nep)"
