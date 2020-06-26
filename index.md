@@ -56,7 +56,43 @@ Configure Visual Studio Code for Azure and Terraform](https://developer.rackspac
   41. [Nikhil](https://www.linkedin.com/in/nkulkarni92/) on "[Disaster Recovery in Sitecore Managed Cloud](https://techienikhil.wordpress.com/2020/05/02/disaster-recovery-in-sitecore-managed-cloud/)"
   42. [Nikhil](https://www.linkedin.com/in/nkulkarni92/) on "[Disabling ARR’s Instance Affinity in Sitecore Azure Websites](https://techienikhil.wordpress.com/2020/05/23/disabling-arrs-instance-affinity-in-sitecore-azure-web-sites/)
   43. [Nikhil](https://www.linkedin.com/in/nkulkarni92/)on "[Deploying to Sitecore Managed Cloud](https://techienikhil.wordpress.com/2020/04/25/deploying-to-sitecore-managed-cloud/)
-  44. 
+  44. [Nilesh Gule](https://twitter.com/nileshgule) on "[Youtube–Autoscaling containers with KEDA on AKS](https://www.handsonarchitect.com/2020/05/youtubeautoscaling-containers-with-keda.html)"
+  45. [Nilesh Gule](https://twitter.com/nileshgule) on "[Integrate Azure Container Registry with AKS in 5 easy steps](https://www.handsonarchitect.com/2020/06/integrate-azure-container-registry-with.html)"
+  46. [Nishanth](https://twitter.com/NishanthPrabkrn) on "[Azure Serverless Real-Time Application and Its Challenges](https://dzone.com/articles/azure-serverless-real-time-application-and-its-cha)"
+  47. [Nishu Goel](https://twitter.com/DcoustaWilson) on "[Angular web app on Azure Static web apps](https://medium.com/@nishu0505/angular-web-app-on-azure-static-web-apps-9f89b91b5915)"
+  48. [Piyush](https://twitter.com/PiyushJalan93) on "[Azure DevOps 1O1](https://medium.com/@piyushj02/azure-devops-1o1-f79a5c0f7dc7)"
+  49. [Prabhat](https://twitter.com/prabhatsumandss) on "[My first project on ML: SMS Classification using Azure](https://medium.com/@prabhatsuman/my-first-project-on-ml-sms-classification-using-azure-224d23298fa8)"
+  50. [Praveen Raghuvanshi](https://twitter.com/praveenraghuvan) on "[Virtual ML.Net: Introduction](https://praveenraghuvanshi1512.github.io/data%20science/2020/06/04/virtual-mlnet-introduction.html)"
+  51. [Praveen Nair](https://twitter.com/ninethsense) on "[Virtual Queue Management System](https://github.com/ninethsense/VirtualQueue/blob/master/README.md)"
+  52. [Raghav Matta](https://www.linkedin.com/in/raghavmatta/) on "[Automated ML using Azure Machine Learning](https://medium.com/@raghavmatta/automated-ml-using-azure-machine-learning-f5a505fa748)"
+  53. [Raghav Matta](https://www.linkedin.com/in/raghavmatta/) on "[Using Secrets API to Mount Azure Blob securely on Databricks File Storage](https://medium.com/swlh/using-secrets-api-to-mount-azure-blob-storage-securely-to-databricks-30e7f2501703)"
+  54. [Raghav Matta](https://www.linkedin.com/in/raghavmatta/) on "[Getting Started with Databricks on Azure](https://medium.com/@raghavmatta/getting-started-with-databricks-on-azure-f3bceda8b918)"
+  55. [Rahul Rai](https://twitter.com/rahulrai_in) on "[Using Startup Command to Pass Command Line Arguments to Azure App Service for Linux](https://thecloudblog.net/post/using-startup-command-to-pass-command-line-arguments-to-azure-app-service-for-linux/)"
+  56. [Rakesh](https://www.linkedin.com/in/rakesh-jaiswal-91bb60b/) on "[How to Deploy an Asp.Net Core 3.1 Web API on Azure Kubernetes Cluster](https://medium.com/@rakeshonrediff/how-to-deploy-an-asp-net-core-3-1-web-api-on-azure-kubernetes-cluster-803373d708e0)"
+  57. [Rakesh](https://www.linkedin.com/in/rakesh-jaiswal-91bb60b/) on "[Azure Integration Services](https://medium.com/@rakeshonrediff/azure-integration-services-438fe28d86c9)"
+  58. [Ritesh](https://twitter.com/automationnext) on "[Developing a Serverless solution to detect people with masks](https://medium.com/@ritesh.modi/developing-a-serverless-solution-to-detect-people-without-masks-f33615059452)"
+  59. [Riya](https://twitter.com/RiyaMistry20) on "[Building your first ML model in Azure Databricks using PySpark](https://medium.com/@mistryriya1999/building-your-first-ml-model-and-getting-started-with-pyspark-2e5374360be7)"
+  60. [Rohan](https://twitter.com/rohankalhans) on "[Application Deployment with Azure Kubernetes Service and Azure Pipelines](https://medium.com/faun/application-deployment-with-azure-kubernetes-service-and-azure-pipelines-a0bf43916746)"
+  61. [Runcy](https://twitter.com/runcyoommen) on "[Key security improvements and best practices for Kubernetes on Azure](https://medium.com/@runcyoommen/key-security-improvements-and-best-practices-for-kubernetes-on-azure-cf38bc55722a)"
+  62. [Sagar](https://www.linkedin.com/in/ladsagar/) on "[Azure Devops : Pass Variables within/across different stages](https://medium.com/@sagu94271/azure-devops-pass-variables-within-across-different-stages-92fcf7f6cf5c)"
+  63. [Sagar](https://www.linkedin.com/in/ladsagar/) on "[Configure Azure Multi-Factor Authentication settings](https://medium.com/@sagu94271/configure-azure-multi-factor-authentication-settings-4e646573f447)"
+  64. [Sagar](https://www.linkedin.com/in/ladsagar/) on "[CI/CD on Azure Data bricks using Azure DevOps](https://medium.com/@sagu94271/ci-cd-on-azure-data-bricks-using-azure-devops-d78e12c6e987)"
+  65. [Sagar](https://www.linkedin.com/in/ladsagar/) on "[Create App Registration & Configure its permission scopes](https://medium.com/@sagu94271/create-app-registration-configure-its-permission-scopes-8727cac3676e)"
+  66. [Saif](https://www.linkedin.com/in/ladsagar/) on "[Complete Guide to setup LAMP Architecture Docker Image into Azure Kubernetes Services,with azure persistence disk attached](https://dev.to/saif02/complete-guide-to-setup-lamp-architecture-docker-image-into-azure-kubernetes-services-with-azure-persistence-disk-attached-2faj)"
+  67. [Sangam](https://twitter.com/BiradarSangam) on "[How To Integrate with Visual Studio Code, Azure Cloud Instance and Docker Desktop](http://engineitops.com/how-to-integrate-visual-studio-code-azure-cloud-instance-and-docker-desktop/)"
+  68. [Sarathlal](https://twitter.com/SarathlalSasee1) on "[Easily Enable Azure AD Authentication In Angular And ASP.NET Core Web API App](https://www.c-sharpcorner.com/article/easily-enable-azure-ad-authentication-in-angular-and-web-api-core-app/)"
+  69. [Saravanan](https://www.linkedin.com/in/saravanan-ganesan-23705a47/) on "[Smart Monitoring of Connected Assets Using Azure IoT](https://medium.com/@saravanan2991/smart-monitoring-of-connected-assets-using-azure-iot-67890dea22ba)"
+  70. [Seema](https://twitter.com/SeemaSaharan5) on "[What does “Azure DevOps” have for us?](https://medium.com/@SeemaSaharan/what-does-azure-devops-have-for-us-3a3c3c647c6b)"
+  71. Shiva on "[Spam email reducer](https://github.com/cedric05/spam-reducer/blob/master/doc.md)"
+  72. [Skrikant](https://www.linkedin.com/in/syerge/) on "[Ansible for Azure](https://medium.com/@syerge/ansible-for-azure-70e4e85fb9eb)
+  73. [Shubham](https://twitter.com/mrShubhamGautam) on "[How to Upload Image to Azure Blob using Javascript](https://medium.com/@shubhamgautam1/how-to-upload-image-to-azure-blob-using-pure-javascript-will-see-implementation-in-react-js-also-8844d3043562)"
+  74. [Suneet](https://www.linkedin.com/in/suneet-patil/) on "[Building AI driven Multi-modal Feedback Systems using Azure Bot Services and RPA](https://dev.to/suneetpatil/building-ai-driven-multi-modal-feedback-systems-using-azure-bot-services-and-rpa-ccn)"
+  75. [Suthahar](https://twitter.com/jssuthahar) on "[Building Bot Application with Azure AD Login Authentication using AuthBot](https://www.msdevbuild.com/2020/01/building-bot-application-with-azure-ad.html)"
+  76. [Vasundhara](https://www.linkedin.com/in/vasundhara-jagdale-14b1b5b/) on "[Chef: kitchen-azurerm](https://vasundharajagdale.wordpress.com/2020/05/25/chef-kitchen-azurerm/)"
+  77. [Vipul](https://twitter.com/vipulgupta2048) on "[Using Serverless at scale to build a Party Parrot GIFs generator](https://dev.to/vipulgupta2048/using-serverless-at-scale-to-build-a-party-parrot-gifs-generator-32be)"
+  78. [Vishwas](https://twitter.com/VishwasNavada) on "[Azure in Industrial IoT](https://medium.com/@vishwasnavada/azure-in-industrial-iot-4256657e0d90)"
+  79. [Vivek Raja](https://twitter.com/VivekRaja007) on "[Building End to End COVID-19 Forecast Model using Azure ML](https://medium.com/@vivekraja98/building-end-to-end-covid-19-forecast-model-using-azure-ml-16da338864b3)"
+  80. [Vivek Singh](https://www.linkedin.com/in/viveksingh101/) on "[Deploying your Unity Game on Azure](https://www.linkedin.com/pulse/deploying-your-unity-game-azure-vivek-singh/)
   
 # Microsoft Azure Learning Resources ☁️
 
