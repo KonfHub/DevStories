@@ -24,7 +24,7 @@
   10. [Akshata](https://www.linkedin.com/in/akshata-sawant-192a3a121/) on "[Azure DevOps Release](https://akshata9699.wordpress.com/2020/06/07/azure-devops-release/)"
   11. [Akshata](https://www.linkedin.com/in/akshata-sawant-192a3a121/) on "[Publishing Web Application to Azure Web App from GitHub using GitHub Actions](https://codeindarkmode.wordpress.com/2020/06/06/publishing-web-application-to-azure-web-app/)"
   12. [Akshay Zade](https://twitter.com/akshay4000) on "[Azure: The Ultimate Website Host](https://medium.com/@akshay2000/azure-the-ultimate-website-host-3f4aa953290)"
-  13. [Amin Ali](https://www.linkedin.com/in/amin-ali/) on "[Azure API Management |SwaggerHub Integrations](https://medium.com/@aminali104/azure-api-management-swaggerhub-integrations-60f11815f6ce)"
+  13. [Amin Ali](https://www.linkedin.com/in/amin-ali/) on "[Azure API Management SwaggerHub Integrations](https://medium.com/@aminali104/azure-api-management-swaggerhub-integrations-60f11815f6ce)"
   14. [Amit Malik](https://www.linkedin.com/in/amitmalik99/) on "[CloudLabs Architecture & Infrastructure Deployments Automation: Technical Deep Dive](https://cloudlabs.ai/cloudlabs-with-azure-automating-infrastructure-deployments-technical-deep-dive/)"
   15. [Anand Gothe](https://twitter.com/anandgothe) on "[Extract bill details from a picture using Azure Cognitive Service](https://devonblog.com/continuous-delivery/extract-bill-details-from-a-picture-using-azure-cognitive-service/)"
   16. [Ankit Sharma](https://twitter.com/ankitsharma_007) on "[How To Create An Optical Character Reader Using Angular And Azure Computer Vision](https://www.freecodecamp.org/news/how-to-create-an-optical-character-reader-using-angular-and-azure-computer-vision/)"
@@ -52,7 +52,11 @@ Configure Visual Studio Code for Azure and Terraform](https://developer.rackspac
   37. [Mithun](https://twitter.com/MithunShanbhag) on "[CloudSkew Architecture](https://www.cloudskew.com/about/cloudskew-architecture.html)"
   38. Monirul on "[How to build a healthcare platform in 10 days using Azure Cloud Service](https://medium.com/@monirul10491/how-to-build-a-healthcare-platform-in-10-days-using-azure-cloud-service-93aec7176871)"
   39. [Murughan](https://twitter.com/Murughan_P) on "[DevOps & Blockchain to Elevate Organization](https://elevate-org.com/2020/06/08/deploy-containerized-ruby-app-to-azure-in-5-minutes/)"
-  40. [Mustafa](https://twitter.com/Mustafa70853725) on "[Hosting your resume on Microsoft Azure | Code deployment on Github | HTML-CSS Resume and CV](https://www.linkedin.com/pulse/hosting-your-resume-microsoft-azure-code-deployment-github-saifee/)"
+  40. [Mustafa](https://twitter.com/Mustafa70853725) on "[Hosting your resume on Microsoft Azure Code deployment on Github HTML-CSS Resume and CV](https://www.linkedin.com/pulse/hosting-your-resume-microsoft-azure-code-deployment-github-saifee/)"
+  41. [Nikhil](https://www.linkedin.com/in/nkulkarni92/) on "[Disaster Recovery in Sitecore Managed Cloud](https://techienikhil.wordpress.com/2020/05/02/disaster-recovery-in-sitecore-managed-cloud/)"
+  42. [Nikhil](https://www.linkedin.com/in/nkulkarni92/) on "[Disabling ARR’s Instance Affinity in Sitecore Azure Websites](https://techienikhil.wordpress.com/2020/05/23/disabling-arrs-instance-affinity-in-sitecore-azure-web-sites/)
+  43. [Nikhil](https://www.linkedin.com/in/nkulkarni92/)on "[Deploying to Sitecore Managed Cloud](https://techienikhil.wordpress.com/2020/04/25/deploying-to-sitecore-managed-cloud/)
+  44. 
   
 # Microsoft Azure Learning Resources ☁️
 
