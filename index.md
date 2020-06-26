@@ -11,6 +11,10 @@
 
 > _**[Azure Developer Stories](https://devstories.konfhub.com/)** is a technical blogging contest created for professional developers. The goal of the initiative is to skill developers to learn new technologies on Microsoft Learn and write technical blogs with demos and code samples sharing their experiences while building on Azure. The stories will help other developers across the globe to scale in building solutions on Azure._ 
 
+##Blogs Submitted for Azure Developer Stories
+  1. **[MLOps with AML and Azure Devops](https://dev.to/jbahire/mlops-with-aml-and-azure-devops-glj)** by [Jayesh Ahire](https://twitter.com/Jayesh_Ahire1)
+  2. **[Building a Serverless and Cognitive Services solution on Azure for COVID-19 data processing](https://medium.com/@manojgr/building-a-serverless-and-cognitive-services-solution-on-azure-for-covid-19-data-processing-20d64a268a4b)** by [Manoj Ganapathi](https://twitter.com/manojgr)
+
 # Microsoft Azure Learning Resources ☁️
 
 ### Category: AI/ML
@@ -80,4 +84,4 @@ _Check out this blog on [Writing a technical blog 101](https://dev.to/arkodyutis
 - **[Azure FREE Trial Account](https://azure.microsoft.com/free/?WT.mc_id=-github-arsaha)**
 - **[Visual Studio Code](https://code.visualstudio.com/)**
 
-🏷️ **Check out our official website for more details about [Azure Developer Stories](https://devstories.konfhub.com/) contest and submit your blog [here](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAAls_TZUQVUwQ1lJQzFMTFNUSTZCRURaRlRBWFFYVi4u)**
+🏷️ **Check out our official website for more details about [Azure Developer Stories](https://devstories.konfhub.com/) 
