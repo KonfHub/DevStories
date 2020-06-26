@@ -29,7 +29,7 @@
   15. [Anand Gothe](https://twitter.com/anandgothe) on "[Extract bill details from a picture using Azure Cognitive Service](https://devonblog.com/continuous-delivery/extract-bill-details-from-a-picture-using-azure-cognitive-service/)"
   16. [Ankit Sharma](https://twitter.com/ankitsharma_007) on "[How To Create An Optical Character Reader Using Angular And Azure Computer Vision](https://www.freecodecamp.org/news/how-to-create-an-optical-character-reader-using-angular-and-azure-computer-vision/)"
   17. [Ankit Sharma](https://twitter.com/ankitsharma_007) on "[Going Serverless With Blazor](https://ankitsharmablogs.com/going-serverless-with-blazor/)"
-  18. [Anurag](https://twitter.com/darkguyy) on "[Beginners Guide for Azure CosmosDB](https://twitter.com/darkguyy	https://medium.com/@darkguyy/beginners-guide-for-azure-cosmosdb-1744ce6aa58c)"
+  18. [Anurag](https://twitter.com/darkguyy) on "[Beginners Guide for Azure CosmosDB](https://medium.com/@darkguyy/beginners-guide-for-azure-cosmosdb-1744ce6aa58c)"
   19. [Anuraj](https://twitter.com/anuraj) on "[Building COVID 19 FAQ ChatBot using Azure Cognitive Services and Azure Bot Framework](https://medium.com/@anuraj.p/building-covid-19-faq-chatbot-using-cognitive-services-and-bot-framework-1e964ca08067)"
   20. [Anuraj](https://twitter.com/anuraj) on "[Implementing a Twitter Bot using Azure Cognitive Services and Azure Functions](https://medium.com/@anuraj.p/implementing-a-twitter-bot-using-azure-cognitive-services-and-azure-functions-57cdd9636fe5)"
   21. [Aravind](https://twitter.com/aravindputrevu) on "[Building a Python Web Application with Elastic App Search](https://guides.aravind.dev/codelabs/elastic-app-search-python/index.html?index=..%2F..index#0)"
