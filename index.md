@@ -13,8 +13,47 @@
 
 ## Blogs Submitted for Azure Developer Stories 📚✍️
   1. [Abdur](https://www.linkedin.com/in/abdurrahman-163a63127/) on "[Face recognition as second factor authenticator with Keycloak and AzureML](https://arbmf.wordpress.com/2020/06/08/face-recognition-with-keycloak-and-azureml/)"
-  2. 
-
+  2. [Abhijit](https://twitter.com/AbhijitJana) on "[10 Azure services that every .NET Developers, Consultant, and Architects should know and learn it well – Part II](https://abhijitjana.net/2020/05/16/10-azure-services-that-every-net-developers-consultant-and-architects-should-know-and-learn-it-well-part-ii/)"
+  3. [Aditya](https://www.linkedin.com/in/theadisoni/) on "[MLOps: The Epoch of Productionizing ML Models](https://medium.com/analytics-vidhya/mlops-the-epoch-of-productionizing-ml-models-4eec06d93623)"
+  4. [Aditya](https://www.linkedin.com/in/theadisoni/) on "[MLOps In Azure](https://medium.com/@theadisoni/mlops-in-azure-f6e7c006fe0e)
+  5. [Akhil](https://www.linkedin.com/in/akhil-vatts-sharma/) on "[YAML Build Pipelines in Azure DevOps](https://akhilsharma.work/yaml-build-pipelines-in-azuredevops-pipelineasacode/)"
+  6. [Akhil](https://www.linkedin.com/in/akhil-vatts-sharma/) on "[Configure & Run Self-Hosted Azure DevOps Agent Behind Proxy](https://akhilsharma.work/configure-run-self-hosted-azure-devops-agent-behind-proxy/)"
+  7. [Akhil](https://www.linkedin.com/in/akhil-vatts-sharma/) on "[YAML Deploy Using Azure Pipelines](https://akhilsharma.work/yaml-deploy-using-azure-pipelines-pipelineasacode/)
+  8. [Akhil](https://www.linkedin.com/in/akhil-vatts-sharma/) on "[Setting Approvals Through Azure Pipelines Environment](https://akhilsharma.work/setting-approvals-through-azure-pipelines-environment/)"
+  9. [Akshata](https://www.linkedin.com/in/akshata-sawant-192a3a121/) on "[Azure DevOps + MuleSoft](https://akshata9699.wordpress.com/2020/06/07/azure-devops-mulesoft/)"
+  10. [Akshata](https://www.linkedin.com/in/akshata-sawant-192a3a121/) on "[Azure DevOps Release](https://akshata9699.wordpress.com/2020/06/07/azure-devops-release/)"
+  11. [Akshata](https://www.linkedin.com/in/akshata-sawant-192a3a121/) on "[Publishing Web Application to Azure Web App from GitHub using GitHub Actions](https://codeindarkmode.wordpress.com/2020/06/06/publishing-web-application-to-azure-web-app/)"
+  12. [Akshay Zade](https://twitter.com/akshay4000) on "[Azure: The Ultimate Website Host](https://medium.com/@akshay2000/azure-the-ultimate-website-host-3f4aa953290)"
+  13. [Amin Ali](https://www.linkedin.com/in/amin-ali/) on "[Azure API Management |SwaggerHub Integrations](https://medium.com/@aminali104/azure-api-management-swaggerhub-integrations-60f11815f6ce)"
+  14. [Amit Malik](https://www.linkedin.com/in/amitmalik99/) on "[CloudLabs Architecture & Infrastructure Deployments Automation: Technical Deep Dive](https://cloudlabs.ai/cloudlabs-with-azure-automating-infrastructure-deployments-technical-deep-dive/)"
+  15. [Anand Gothe](https://twitter.com/anandgothe) on "[Extract bill details from a picture using Azure Cognitive Service](https://devonblog.com/continuous-delivery/extract-bill-details-from-a-picture-using-azure-cognitive-service/)"
+  16. [Ankit Sharma](https://twitter.com/ankitsharma_007) on "[How To Create An Optical Character Reader Using Angular And Azure Computer Vision](https://www.freecodecamp.org/news/how-to-create-an-optical-character-reader-using-angular-and-azure-computer-vision/)"
+  17. [Ankit Sharma](https://twitter.com/ankitsharma_007) on "[Going Serverless With Blazor](https://ankitsharmablogs.com/going-serverless-with-blazor/)"
+  18. [Anurag](https://twitter.com/darkguyy) on "[Beginners Guide for Azure CosmosDB](https://twitter.com/darkguyy	https://medium.com/@darkguyy/beginners-guide-for-azure-cosmosdb-1744ce6aa58c)"
+  19. [Anuraj](https://twitter.com/anuraj) on "[Building COVID 19 FAQ ChatBot using Azure Cognitive Services and Azure Bot Framework](https://medium.com/@anuraj.p/building-covid-19-faq-chatbot-using-cognitive-services-and-bot-framework-1e964ca08067)"
+  20. [Anuraj](https://twitter.com/anuraj) on "[Implementing a Twitter Bot using Azure Cognitive Services and Azure Functions](https://medium.com/@anuraj.p/implementing-a-twitter-bot-using-azure-cognitive-services-and-azure-functions-57cdd9636fe5)"
+  21. [Aravind](https://twitter.com/aravindputrevu) on "[Building a Python Web Application with Elastic App Search](https://guides.aravind.dev/codelabs/elastic-app-search-python/index.html?index=..%2F..index#0)"
+  22. [Arpita](https://twitter.com/letdataconfess) on "[Build ML Model Using Microsoft Azure](https://www.let-the-data-confess.com/build-machine-learning-model-using-microsoft-azure/)"
+  23. [Ashish Raj](https://www.linkedin.com/in/ashishrajsrivastava/) on "[Azure DevOps Pro](https://www.azuredevopspro.com/azuredevops/shifting-security-left-practicing-devsecops-with-azure-devops/)"
+  24. [Debasis](https://www.linkedin.com/in/sahadebasis/) on "[Insert Data Into Azure Table Storage Using ASP.NET Core Application](https://www.c-sharpcorner.com/article/insert-data-into-azure-table-storage-using-asp-net-core-application/)"
+  25. [Dhruv Trehan](https://twitter.com/dhruvtrehan45) on "[Could Cognitive Services help in reducing Data Redundancy and result in faster processing of Big Data?](https://medium.com/@dhruvtrehan45/could-cognitive-services-help-in-reducing-data-redundancy-and-result-in-faster-processing-of-big-dd77968514b8)"
+  26. [Gaurav](https://www.linkedin.com/in/gouravrathore/) on"[ 
+Configure Visual Studio Code for Azure and Terraform](https://developer.rackspace.com/blog/configure-vs-code-for-azure-and-terraform/)"
+  27. [Gaurav](https://www.linkedin.com/in/gouravrathore/) on [Create alerts for long-running backups on Azure](https://developer.rackspace.com/blog/create-alerts-for-long-running-backups-on-Azure/)"
+  28. [Haimantika](https://twitter.com/HaimantikaM) on [Azure Automated ML- the journey from Zero to AI Hero](https://medium.com/@haimantikamitra/azure-automated-ml-the-journey-from-zero-to-ai-hero-b373355f83a1)"
+  29. [Jahnavi](https://www.linkedin.com/in/jahnavijonnalagadda/) on [Exploratory Data Analysis – A Key Step in Machine Learning](https://dev.to/jahnavijonnalagadda/exploratory-data-analysis-a-key-step-in-machine-learning-2nep)"
+  30. [Jayakumar](https://twitter.com/jayakumrB) on [Use Azure Functions to implement Site Design for SharePoint SubSites](https://dev.to/jayakumrb/use-azure-functions-to-implement-site-design-for-sharepoint-subsites-41aj)"
+  31. [Jayendran](https://twitter.com/Jayendran_A) on [Serverless Prediction of a Product Feedback](https://dev.to/jayendran/serverless-prediction-of-a-product-feedback-3o7h)"
+  32. [Jayesh](https://twitter.com/Jayesh_Ahire1) on "[MLOps with AML and Azure Devops](https://dev.to/jbahire/mlops-with-aml-and-azure-devops-glj)"
+  33. Liji Thomas on "[https://lijielizabeththomas.wordpress.com/2020/06/12/covid19bottales/](https://lijielizabeththomas.wordpress.com/2020/06/12/covid19bottales/)"
+  34. [Manoj](https://twitter.com/manojgr) on "[Building a Serverless and Cognitive Services solution on Azure for COVID-19 data processing](https://medium.com/@manojgr/building-a-serverless-and-cognitive-services-solution-on-azure-for-covid-19-data-processing-20d64a268a4b)"
+  35. [Menaka](https://twitter.com/MenakaBasker) on "[Deploy .NET Core Application In Azure Kubernetes With Azure DevOps](https://www.c-sharpcorner.com/article/deploy-net-core-application-in-azure-kubernetes-with-azure-devops/)"
+  36. Mitesh on "[Create a CI/CD Pipeline for Java +Spring MVC with the Azure App Services](https://etutorialsworld.com/2020/06/create-a-ci-cd-multi-stage-pipeline-for-javaspring-mvc-with-the-azure-devops-and-azure-app-services/)"
+  37. [Mithun](https://twitter.com/MithunShanbhag) on "[CloudSkew Architecture](https://www.cloudskew.com/about/cloudskew-architecture.html)"
+  38. Monirul on "[How to build a healthcare platform in 10 days using Azure Cloud Service](https://medium.com/@monirul10491/how-to-build-a-healthcare-platform-in-10-days-using-azure-cloud-service-93aec7176871)"
+  39. [Murughan](https://twitter.com/Murughan_P) on "[DevOps & Blockchain to Elevate Organization](https://elevate-org.com/2020/06/08/deploy-containerized-ruby-app-to-azure-in-5-minutes/)"
+  40. [Mustafa](https://twitter.com/Mustafa70853725) on "[Hosting your resume on Microsoft Azure | Code deployment on Github | HTML-CSS Resume and CV](https://www.linkedin.com/pulse/hosting-your-resume-microsoft-azure-code-deployment-github-saifee/)"
+  
 # Microsoft Azure Learning Resources ☁️
 
 ### Category: AI/ML
